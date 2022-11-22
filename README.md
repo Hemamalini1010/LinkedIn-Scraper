@@ -1,8 +1,7 @@
 # LinkedIn-Scraper
-Find the openings for Data Analyst Role and generate Tableau report
 
 Problem Statement:
-Scraping the Linkedin browser to fetch all the openings for Data Analyst Role and generate the trend for current date. 
+Scraping the Linkedin browser to fetch all the openings for Data Analyst Role and generate Job market analysis report
 -To understand the Job Market and opportunities 
 -To check the companywise openings
 
